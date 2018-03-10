@@ -1,0 +1,6 @@
+Qual das Opções Abaixo é uma Memoria Volátil ?
+Bios
+Rom
+Ram
+HD
+Ram

@@ -1,0 +1,6 @@
+Qual a resposta da pergunta: Do you like ice-cream?
+Yes, I don't like
+No,I Like
+Yes, I like OU Yes, I do
+Nenhuma das alternativas anteriores
+Yes, I like OU Yes, I do

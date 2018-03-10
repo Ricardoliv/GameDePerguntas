@@ -1,0 +1,6 @@
+Com 8 Bits, até que número podemos contar em binário?
+256
+512
+1024
+255
+255

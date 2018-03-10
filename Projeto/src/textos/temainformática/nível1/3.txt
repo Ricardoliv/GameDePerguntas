@@ -1,0 +1,7 @@
+É uma Linguagem de Programação Orientada a Objetos:
+C
+Cobol
+PHP
+Java
+Java
+		

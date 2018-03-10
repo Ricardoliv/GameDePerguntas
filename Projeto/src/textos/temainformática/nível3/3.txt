@@ -1,0 +1,6 @@
+Qual Comando da linguagem sql amostra uma tabela?
+Select # From
+Select * From
+Select From
+Select From *
+Select * From

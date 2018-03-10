@@ -1,0 +1,6 @@
+O número  "00000111" em Base 2 Corresponde a qual número em Decimal ? 
+7
+34
+10
+2
+7

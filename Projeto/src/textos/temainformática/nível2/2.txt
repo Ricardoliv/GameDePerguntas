@@ -1,0 +1,6 @@
+Assinale a alternativa que não contém uma regra para nomeação de variáveis.
+Não pode ser palavra reservada.
+Os espaços devem ser dados por underline.
+Pode ter espaços
+Não podem ter números
+Não podem ter números

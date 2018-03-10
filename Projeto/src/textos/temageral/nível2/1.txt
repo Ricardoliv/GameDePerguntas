@@ -1,0 +1,6 @@
+Qual o maior planeta do sistema solar:
+Sol
+Saturno
+Mercúrio
+Júpiter
+Júpiter

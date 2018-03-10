@@ -1,0 +1,6 @@
+Qual dos seguintes tipos de de vetores só aceita inteiros?
+Float[]
+String[]
+int[]
+Boolean[]
+int[]

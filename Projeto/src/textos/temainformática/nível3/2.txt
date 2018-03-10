@@ -1,0 +1,6 @@
+Em teoria, qual das configurações abaixo (PROCESSADOR/MEMÓRIA RAM) é mais "poderosa"?
+Core i7 2.6GHz | 4GB DDR
+Core 2 Duo 2 GHz | 2GB DDRII
+Dual Core 4GHz| 8GB DDR
+Core i5 3.6GHz | 8GB DDR2II
+Core i5 3.6GHz | 8GB DDR2II

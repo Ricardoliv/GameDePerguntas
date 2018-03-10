@@ -1,0 +1,6 @@
+Metodo da linguagem Java que retorna o indice de um caractere .
+indexOf
+charAt
+Scanner
+toString
+indexOf

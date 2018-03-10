@@ -1,0 +1,6 @@
+Qual das alternativas corresponde a uma IDE ?
+Shell
+Eclipse
+Unix
+C#
+Eclipse

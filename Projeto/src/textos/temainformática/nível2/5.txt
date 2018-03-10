@@ -1,0 +1,6 @@
+A memória cache é utilizada para:
+armazenar os dados mais requisitados pelo processador
+armazenar dados que raramente são requisitados pelo processador
+armazenar dados numéricos
+nenhuma das anteriores
+armazenar os dados mais requisitados pelo processador
